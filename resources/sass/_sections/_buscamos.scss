@@ -1,0 +1,45 @@
+/* Buscamos */
+#buscamos{
+  background-image: url(../images/buscamos/buscamos_fondo.png);
+  width: 100%;
+  height: auto;
+  border-top: 10px solid #e3c350;
+}
+.box-buscamos{
+  margin-top: 20%;
+  text-align: left;
+}
+.box-buscamos h2{
+  font-size: 44px;
+}
+.box-historia{
+  text-align: right;
+  margin-bottom: 25%;
+  width: 80%;
+  float: right;
+}
+.box-historia > img{
+  margin: 10% 0px;
+  width: 55%;
+}
+.box-wine-left{
+  position: relative;
+}
+
+.img-box-wine-left{
+  width: 140%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.box-wine-right{
+  position: relative;
+}
+
+.img-box-wine-right{
+  width: 140%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

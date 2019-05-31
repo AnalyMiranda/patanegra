@@ -1,0 +1,59 @@
+.age-validation {
+    background-color: #289099;
+    text-align: center;
+    height: 100vh; 
+  }
+  .age-validation .bg-dark {
+    width: 40%; 
+  }
+  .age-validation h1 {
+      font-size: 78px;
+      font-size: 5.3vw; 
+  }
+  .age-validation p, .age-validation input, .age-validation button {
+      font-size: 23px; 
+  }
+  .age-validation .logo {
+      width: 25%; 
+  }
+  .button-entrar {
+    background-color: #e3c530 !important;
+    color: #09727c;
+    line-height: 0 !important;
+    font-weight: bold;
+    border: 0px !important;
+  }
+  .age-validation input {
+    line-height: 2;
+    width: 32%;
+    height: 46px;
+    background-color: transparent;
+    border: 3px solid #17585d;
+  }
+  .age-validation input::placeholder {
+    color: #17585d ;
+  }
+  .age-validation a {
+      font-size: 16px;
+  }
+  .age-validation a i {
+        font-size: 25px;
+  }
+  .age-validation .validation {
+    font-size: 13px;
+    color: red; 
+  }
+  // modal aviso de privacidad
+  .modal-terminos .modal-dialog {
+    width: 90%; 
+  }
+  .modal-terminos .modal-content {
+    background: rgba(0, 0, 0, 0.9);  
+  }
+  .modal-terminos .modal-content p, .modal-teriminos .modal-content .age-validation input, .age-validation .modal-teriminos .modal-content input, .modal-teriminos .modal-content button {    
+    font-size: 18px; 
+  }
+  .modal-terminos .modal-content .carousel {
+    height: 450px;
+    padding: 3% 10%; 
+  }

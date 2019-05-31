@@ -1,0 +1,114 @@
+$break-small: 500px;
+
+
+.no-padding{
+
+  padding: 0px !important;
+
+}
+
+.no-margin{
+
+  margin: 0px !important;
+
+}
+
+
+.wine-container{
+
+  background: #027A85;
+  width:100%;
+
+}
+
+.wine-container .bottle{
+
+
+}
+
+.bottle-img{
+  width: 100%;
+}
+
+.details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media screen and (min-width: $break-small) {
+    height: 100vh;
+  }
+}
+
+.center-block {
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.text-center {
+  text-align:center
+}
+
+.wine-text{
+
+  color: white !important;
+
+}
+
+.wine-header{
+  color: #0b464b;
+}
+
+.wine-separator{
+  background: #00616A;
+  color: #289099;
+}
+
+.wine-selector{
+
+  background: #ecc74e;
+
+}
+
+
+.wine-slider-image{
+  vertical-align: middle;
+}
+
+.wine-slider-divider{
+  height: 100px;
+  width: 5px;
+  background: #00616A;
+}
+
+.arrows{
+  margin-top: 45%;
+  @media screen and (max-width: $break-small) {
+    display: none;
+  }
+}
+
+.wine-leaves{
+  max-width: 350px;
+  padding: 20px;
+}
+
+.wine-background{
+  background: url("../../images/carousel/wines/encuentra_lines.png");
+  background-size:     contain;
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+.wine-hidden{
+  visibility: hidden;
+}
+
+.wine-hover{
+
+}
+
+.wine-hover:hover + .wine-hidden{
+  visibility: visible;
+}

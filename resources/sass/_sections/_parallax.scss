@@ -1,0 +1,33 @@
+/* Parallax */
+.img-parallax { 
+  background-image: url('../images/parallax/parallax_fondo.png');
+  height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.top-pleca{
+  position: relative;
+  top: 95px;
+  z-index: 1;
+}
+.bottom-pleca{
+  position: relative;
+  bottom: 70px;
+  z-index: 1;
+}
+.red-back{
+  background-color: #781f2f;
+}
+
+.box-couple{
+  position: relative;
+}
+
+.img-box-couple{
+  width: 60%;
+  position: absolute;
+  bottom: 65px;
+  left: 0;
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "LemonMilk";
+    src: url("../fonts/LemonMilk.eot") format("embedded-opentype"), url("../fonts/LemonMilk.ttf") format("truetype"); }
+    .pathway {
+      font-family: "LemonMilk"; 
+    }
+
+@font-face {
+  font-family: "LemonMilklight";
+  src: url("../fonts/LemonMilklight.eot") format("embedded-opentype"), url("../fonts/LemonMilklight.ttf") format("truetype"); }
+  .font-light {
+    font-family: "LemonMilklight"; 
+  }    
+    
+  body {
+    font-size: 16px !important; 
+   }

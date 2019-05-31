@@ -1,0 +1,35 @@
+/* Denominaciones */
+
+#denominaciones{
+  background-color: #e3c350;
+  width: 100%;
+  height: auto;
+  margin: -5px 0px;
+  padding: 200px 0px;
+}
+  .box-conoce{
+    background-color: #09727c;
+    float: right;
+    text-align: right;
+    padding: 5px 5px 5px 250px;
+  }
+  .box-conoce a{
+    color: #e3c350;
+  }
+  .box-conoce a:hover{
+    color: #e3c350;
+    text-decoration: none;
+  }
+  .box-conoce a>h3{
+    margin: 0px;
+    font-size: 28px;
+  }
+  .box-deno-left{
+    //position: relative;
+  }
+  
+  .img-deno-left{
+    //position: absolute;
+    //bottom: 0;
+    //left: 0;
+  }
