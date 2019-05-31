@@ -152,7 +152,7 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/jorsh/Development/digitalcoaster/sites/patanegra/resources/js/validation.js */"./resources/js/validation.js");
+module.exports = __webpack_require__(/*! /home/vagrant/code/laravel-patanegra/resources/js/validation.js */"./resources/js/validation.js");
 
 
 /***/ })

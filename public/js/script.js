@@ -109,7 +109,7 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/jorsh/Development/digitalcoaster/sites/patanegra/resources/js/script.js */"./resources/js/script.js");
+module.exports = __webpack_require__(/*! /home/vagrant/code/laravel-patanegra/resources/js/script.js */"./resources/js/script.js");
 
 
 /***/ })

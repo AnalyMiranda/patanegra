@@ -17,7 +17,5 @@ mix.js('resources/js/app.js', 'public/js')
     .js('resources/js/script.js', 'public/js')
     .js('resources/js/registro.js', 'public/js')
     .js('resources/js/modal.js', 'public/js')
-    .js('resources/js/wines.js','public/js')
     .copyDirectory('resources/images', 'public/images')
     .copyDirectory('resources/fonts', 'public/fonts');
-

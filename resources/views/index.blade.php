@@ -343,27 +343,78 @@
                             <p>Para disfrutar del vino no hay que ser un experto. Aunque cuànto màs aprendes de algo, màs lo disfrutamos, ¿no crees?</p>
                             <p>Aquì te compartimos curiosidades, datos, tips, y mas para que tu experiencia con Pata Negra sea aùn mejor.</p>
                         </div>
-                        <!-- Trigger/Open The Modal -->
-                        <div style="cursor: pointer" id="myBtn">- ¿CÒMO ABRIR UNA BOTELLA?</div>
-
-                        <!-- The Modal -->
-                        <div id="myModal" class="modal">
-
-                            <!-- Modal content -->
+                        <!-- 1 Modal -->
+                        <div style="cursor: pointer" id="myBtn_1">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_1" class="modal">
                             <div class="modal-content">
                                 <span class="close">&times;</span>
                                 <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
                             </div>
-
                         </div>
-                        <ul>
-                            
-                            <a><li>UNA VEZ QUE ABRÌ LA BOTELLA, ¿CÒMO DEBO RESERVARLA?</li></a>
-                            <a><li>¿CUÀNTAS CALORÌAS TIENE UNA BOTELLA DE VINO?</li></a>
-                            <a><li></li></a>
-                            <a><li></li></a>
-                            <a><li></li></a>
-                        </ul>
+
+                        <!-- 2 Modal -->
+                        <div style="cursor: pointer" id="myBtn_2">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_2" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 3 Modal -->
+                        <div style="cursor: pointer" id="myBtn_3">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_3" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 4 Modal -->
+                        <div style="cursor: pointer" id="myBtn_4">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_4" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 5 Modal -->
+                        <div style="cursor: pointer" id="myBtn_5">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_5" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 6 Modal -->
+                        <div style="cursor: pointer" id="myBtn_6">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_6" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 7 Modal -->
+                        <div style="cursor: pointer" id="myBtn_7">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_7" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+
+                        <!-- 8 Modal -->
+                        <div style="cursor: pointer" id="myBtn_8">- ¿CÓMO ABRIR UNA BOTELLA?</div>
+                        <div id="myModal_8" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <p>Cortar la cápsula que cubre el tapón o el corcho, limpiar la boca de la botella, introducir el gusano o tirabuzón por el centro del corcho sin atravesarlo, retirar el corcho con cuidado.</p>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
